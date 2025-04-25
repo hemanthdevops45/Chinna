@@ -40,5 +40,11 @@
             </plugin>
         </plugins>
     </build>
+    <distributionManagement>
+        <repository>
+            <id>jenkins-nexus-integration></id>
+            <url>http://56.228.17.223:8081/repository/jenkins-nexus-integration/</url>
+        </repository>
+    </distributionManagement>
 </project>
 
