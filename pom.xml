@@ -42,9 +42,9 @@
     </build>
     <distributionManagement>
         <repository>
-            <id>nexus-releases></id>
+            <id>nexus-releases</id> <!-- Match this ID with the settings.xml -->
             <url>http://13.60.76.165:8081/repository/nexus-jenkins-integration/</url>
         </repository>
-    </distributionManagement>
+</distributionManagement>
 </project>
 
