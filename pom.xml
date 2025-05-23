@@ -43,7 +43,7 @@
     <distributionManagement>
         <repository>
             <id>nexus-releases</id> <!-- Match this ID with the settings.xml -->
-            <url>http://54.67.62.112:8081/repository/ansible-nexus-integration/</url>
+            <url>http://13.52.239.55:8081/repository/ansible-nexus-integration/</url>
         </repository>
 </distributionManagement>
 </project>
